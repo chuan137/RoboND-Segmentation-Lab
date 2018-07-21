@@ -1,0 +1,7 @@
+data/train
+data/train_combined
+data/runs
+data/validation
+*zip
+code/.ipynb_checkpoints
+code/utils/__pycache__
